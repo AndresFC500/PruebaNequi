@@ -18,7 +18,7 @@ Este proyecto es un desarrollado con **Spring Boot**, que se conecta a una base 
 
 1. Clona este repositorio en tu máquina local.
    ```bash
-   https://github.com/AndresFC500/PruebaNequi.git
+   https://github.com/AndresFC500/Tienda.git
     ```
 2. Compila y empaqueta el proyecto utilizando Maven.
    ```bash
